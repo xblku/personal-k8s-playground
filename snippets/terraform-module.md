@@ -1,5 +1,5 @@
 # Terraform module
 
-Captured 2025-06-24.
+Captured 2025-08-04.
 
-Context: build cache was never hit because the lockfile was copied after the sources.
+Context: log volume tripled after a debug flag stayed on.
