@@ -1,5 +1,5 @@
 # deployment rollout
 
-Captured 2025-06-24.
+Captured 2025-08-04.
 
-Context: readiness probe fired before migrations finished.
+Context: the cron job overlapped with itself under load.
