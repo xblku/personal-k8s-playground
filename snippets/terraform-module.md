@@ -1,5 +1,5 @@
 # Terraform module
 
-Captured 2025-08-04.
+Captured 2026-02-02.
 
-Context: log volume tripled after a debug flag stayed on.
+Context: health checks passed while the queue was stuck.
