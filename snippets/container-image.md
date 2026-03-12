@@ -1,5 +1,5 @@
 # container image
 
-Captured 2026-01-14.
+Captured 2026-03-12.
 
-Context: log volume tripled after a debug flag stayed on.
+Context: readiness probe fired before migrations finished.
