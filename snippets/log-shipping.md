@@ -1,5 +1,5 @@
 # log shipping
 
-Captured 2025-07-05.
+Captured 2026-04-29.
 
-Context: staging and production diverged on one env var.
+Context: build cache was never hit because the lockfile was copied after the sources.
