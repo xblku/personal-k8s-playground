@@ -1,5 +1,5 @@
 # runner autoscaling
 
-Captured 2026-04-14.
+Captured 2026-09-24.
 
-Context: staging and production diverged on one env var.
+Context: readiness probe fired before migrations finished.
